@@ -1,0 +1,7 @@
+v1.0: 
+1. 221798A_Y41.rar为最终生产稿
+2. Gerber_PCB_AIRFLOW_METER_B.zip为上传原稿
+3. 生产稿存在的问题.docx为沟通文档
+4. 实物仿真图_b.JPG 及 实物仿真图_t.JPG 为公众号导出的PCB图
+
+
