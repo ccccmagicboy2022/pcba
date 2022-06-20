@@ -1,6 +1,6 @@
 #!d:\cccc2020\TOOL\python-3.9.1-embed-amd64\python.exe
-BOM_CSV_FILE = "BOM_PCB_CJ1616ADX_2022-05-05.csv"
-BOM_OUTPUT_FILE = "BOM_PCB_CJ1616ADX_2022-05-05.xlsx"
+BOM_CSV_FILE = "BOM_PCB_AIRFLOW_METER_B_2022-06-19.csv"
+BOM_OUTPUT_FILE = "BOM_PCB_AIRFLOW_METER_B_2022-06-19.xlsx"
 
 import os
 import xlsxwriter
