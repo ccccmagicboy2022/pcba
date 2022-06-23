@@ -6,5 +6,6 @@
 	Click Load Extension and close the Extension Settings dialog.
 2. 使用方法LCEDA-->iBom-->Launch
 3. https://github.com/turbobabr/easyeda-ibom-extension
+4. 有时电容元件封装名会是错的，实际以bom文件为准
 
 
